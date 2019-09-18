@@ -14,3 +14,4 @@ Part-Time Data Science & AI Curriculum in Melbourne for the Data Science Institu
 - **Module 09**: Text Analytics
 - **Module 10**: Deep Learning and Neural Networks
 - **Capstone**: Student's Presentation of the course's project
+Testing 1, 2
